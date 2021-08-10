@@ -17,6 +17,22 @@ A pure stream http push technology for your Nginx setup. Comet made easy and rea
     </thead>
     <tbody>
         <tr>
+            <td>1.21.1</td>
+            <td>master (2020.05)</td>
+            <td><ul>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-push-stream-master</li>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-push-stream-master-alpine</li>
+            </ul></td>
+        </tr>
+        <tr>
+            <td>1.21.1</td>
+            <td>0.5.4 (2017.09)</td>
+            <td><ul>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-push-stream-0.5.4</li>
+                <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.1-push-stream-0.5.4-alpine</li>
+            </ul></td>
+        </tr>
+        <tr>
             <td>1.21.0</td>
             <td>master (2020.05)</td>
             <td><ul>
